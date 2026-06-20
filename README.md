@@ -1,6 +1,6 @@
 # Mandrel Commands for Amp
 
-Mandrel Commands is a small [Amp](https://ampcode.com/) plugin that adds Mandrel-related commands to Amp's command palette. It is meant for people who use Mandrel from Amp and want a quick way to reconnect, inspect project state, save context, and manage tasks without remembering exact Mandrel tool names or slash commands.
+Mandrel Commands is a small [Amp](https://ampcode.com/) plugin that adds [Mandrel](https://github.com/RidgetopAi/mandrel)-related commands to Amp's command palette. It is meant for people who use Mandrel from Amp and want a quick way to reconnect, inspect project state, save context, and manage tasks without remembering exact Mandrel tool names or slash commands.
 
 ## What it does
 
@@ -21,9 +21,9 @@ Available commands:
 ## Requirements
 
 - Amp with plugin support enabled.
-- Mandrel MCP tools configured in the Amp environment where you use the plugin.
+- [Mandrel](https://github.com/RidgetopAi/mandrel) MCP tools configured in the Amp environment where you use the plugin.
 
-This plugin does not provide Mandrel itself. It only adds convenient command-palette actions that ask Amp to use Mandrel. If Mandrel is not configured or reachable, the commands will still appear, but Amp will not be able to complete the Mandrel actions.
+This plugin does not provide [Mandrel](https://github.com/RidgetopAi/mandrel) itself. It only adds convenient command-palette actions that ask Amp to use Mandrel. If Mandrel is not configured or reachable, the commands will still appear, but Amp will not be able to complete the Mandrel actions.
 
 ## Install globally from a URL
 
